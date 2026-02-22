@@ -3,7 +3,7 @@ SP&amp;RK (Supply-Chain Process &amp; Risk KillChain. A framework for supply-cha
 
 ## Licensing
 
-This project is dual-licensed to maximize open-source freedom while providing options for commercial use.
+We require a flexible CLA to fund the project via commercial licenses, but the core upstream repository will always remain open-source under the AGPLv3. This project is dual-licensed to maximize open-source freedom while providing options for commercial use.
 
 **1. Open-Source License (AGPLv3)**
 This software is free to use, modify, and distribute under the terms of the **GNU Affero General Public License v3.0**. 
