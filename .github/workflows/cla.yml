@@ -5,6 +5,13 @@ on:
   pull_request_target:
     types: [opened, closed, synchronize]
 
+# This is required so the bot has permission to leave comments and save the signature file
+permissions:
+  actions: read
+  contents: write
+  pull-requests: write
+  statuses: write
+
 jobs:
   CLAAssistant:
     runs-on: ubuntu-latest
@@ -17,7 +24,6 @@ jobs:
         with:
           path-to-signatures: 'signatures/version1/cla.json'
           path-to-document: 'https://github.com/benzies/SP-RK/blob/main/CLA.md'
-          # This specifies the branch where signatures will be stored
-          branch: 'main'
-          # You can add usernames of people who don't need to sign (like yourself or bots)
+          # Store signatures on a separate branch so it doesn't conflict with 'main' branch protection
+          branch: 'cla-signatures'
           allowlist: benzies,bot*
