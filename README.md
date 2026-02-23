@@ -1,5 +1,5 @@
 # SP&RK
-SP&amp;RK (Supply-Chain Process &amp; Risk KillChain. A framework for supply-chain risk identification and disruption. 
+SP&RK (Supply-Chain Process &amp; Risk KillChain. A framework for supply-chain risk identification and disruption. 
 
 ## Licensing
 
@@ -14,4 +14,4 @@ If you wish to use this software in a closed-source product, or if you cannot co
 
 * **What this means:** A commercial license frees you from the copyleft requirements of the AGPL, allowing you to keep your codebase proprietary.
 
-To purchase a commercial license, please contact me.
+To purchase a commercial license, please [contact me](mailto:benzies@gmail.com)
