@@ -3,7 +3,7 @@
 
 > **Beyond the KillChain:** A 4-dimensional, multi-layered risk ontology mapping the organic kinesis of complex adaptive supply chains.
 
-### This is the first publication of this concept, and is in draft. 
+*** ### This is the first publication of this concept, and is in draft.***
 
 The SP&RK Framework is a community-driven, AI-consumable data model designed to classify, visualize, and predict systemic state transitions within global supply chains.
 
